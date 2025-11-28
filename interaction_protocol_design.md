@@ -71,6 +71,10 @@ That is the formal name for this.
 Would you like me to:
 
 ① Provide a clean, formal definition of “Interaction Protocol” you can reuse? 🧠 ⭐Recommended
+
 ② Generate a diagram showing how your protocol works? 🎨
+
 ③ Turn your protocol into a document you can publish or reuse across GPTs? 🔧
+
 ④ Move on with more customization? ⚙️
+
