@@ -23,9 +23,12 @@ All of these together form a structured way of controlling how an AI behaves bey
 Here are the terms used by AI researchers, prompt engineers, and advanced users:
 
 ① **“Interaction Protocol Design”** ⭐Recommended
- A. Covers all user–AI rules
- B. Includes meta-commands, formatting rules, behaviors
- Short explanation: The most accurate term; used in prompt-engineering and LLM UX research.
+ 
+A. Covers all user–AI rules
+ 
+B. Includes meta-commands, formatting rules, behaviors
+ 
+Short explanation: The most accurate term; used in prompt-engineering and LLM UX research.
 
 ② **“Prompt Framework” / “Prompt Architecture”**
  Short explanation: Refers to a *system of prompts*, not just a single prompt; includes command systems, formatting conventions, and roles.
