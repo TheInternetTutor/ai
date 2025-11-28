@@ -77,4 +77,3 @@ Would you like me to:
 ③ Turn your protocol into a document you can publish or reuse across GPTs? 🔧
 
 ④ Move on with more customization? ⚙️
-
